@@ -21,25 +21,26 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AI/ML, Agentic AI, Nodejs, Django, MongoDB, SQL**
+-  I’m a **Software Engineer | Backend Developer | AI/ML Enthusiast.**
+  
+- 🔭 I’m currently working on **ASP.NET Core, AI/ML, Agentic AI, AI Automation(n8n), Nodejs, SQL**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **AI/ML, Python, nodejs**
+- 💬 Ask me about **AI/ML, Javascript, Python**
 
 - 📫 Feel free to reach me out **work.niharbharatia@gmail.com**
 
 <!--Intro end-->
 
 
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/Nihar277/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihar277#version3"/>
-  </a>
-</p>
+## 🔥 | My contribution streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nihar277&theme=dark)](https://github.com/Nihar277)
+
+
 
 <h2>⭐ | Github Stats </h2>
 
