@@ -59,11 +59,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,js,ts,java"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,cs,js,ts,java"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi,prisma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flask,django,fastapi,prisma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI/ML:</td>
@@ -79,7 +79,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=github,git,gitlab,bitbucket"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
@@ -106,8 +106,8 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/{Nihar277}/count.svg)
+
+  ![](https://komarev.com/ghpvc/?username=Nihar277&label=Profile%20Visits&color=blue&style=for-the-badge)
   
 </div>
 
