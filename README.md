@@ -19,7 +19,7 @@
 </div>
 
 <!--Intro start-->
--  I’m a **Software Engineer | Backend Developer | AI/ML Enthusiast.**
+- 🧑‍💻 I’m a **Software Engineer | Backend Developer | AI/ML Enthusiast.**
   
 - 🔭 I’m currently working on **ASP.NET Core, AI/ML, Agentic AI, AI Automation(n8n), Nodejs, SQL**
 
