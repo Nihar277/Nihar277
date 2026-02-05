@@ -15,9 +15,7 @@
 
 
 <div align="center">
-  <br>
   <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
-  <br/>
 </div>
 
 <!--Intro start-->
