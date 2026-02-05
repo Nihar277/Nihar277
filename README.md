@@ -38,7 +38,7 @@
 
 ## 🔥 | My contribution streak
 
-<img src="https://streak-stats.demolab.com?user=Nihar277&theme=dark&v=1" />
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=Nihar277&theme=github_dark)
 
 
 <h2>⭐ | Github Stats </h2>
