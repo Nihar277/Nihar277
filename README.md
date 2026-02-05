@@ -36,18 +36,24 @@
 <!--Intro end-->
 
 
-## 🔥 | My contribution streak
-
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak?username=Nihar277&theme=github_dark)
+<p align="center">
+  <a href="https://github.com/Nihar277/github-readme-streak-stats">
+    <img title="🔥 My streak stats" alt="Yashita's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Nihar277&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
 
 
 <h2>⭐ | Github Stats </h2>
 
-<div align="center">
-<a href="https://github.com/Nihar277">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nihar277&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nihar277&layout=compact&langs_count=7&theme=default"/></a>
-</div>
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=Nihar277&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Nihar277's Top Languages" align="right" width="295">
+
+![Nihar277's GitHub Stats][github-stats-img]
+
+
+  
+  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Nihar277&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Nihar277&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
@@ -104,3 +110,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Nihar277}/count.svg)
   
 </div>
+
+
+[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=Nihar277&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
