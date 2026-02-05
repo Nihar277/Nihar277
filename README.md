@@ -38,8 +38,7 @@
 
 ## 🔥 | My contribution streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nihar277&theme=dark)](https://github.com/Nihar277)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Nihar277&theme=dark&cache_seconds=86400)
 
 
 <h2>⭐ | Github Stats </h2>
